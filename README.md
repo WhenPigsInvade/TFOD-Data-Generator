@@ -1,2 +1,2 @@
-# TFOD_Data_Generator
+# TFOD-Data-Generator
 For PokePoacher
